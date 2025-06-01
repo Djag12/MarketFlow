@@ -14,3 +14,7 @@ From Linux or Ubuntu in WSL, install GNU Make and a C++17 compiler, then run `ma
 The balanced workload touched all 25,000 price levels across 100 symbols. The recorded run processed 100 million synthetic updates at 26.97 million updates per second. Its internal alert latency at the 99th percentile was 35.2 microseconds across 705 sampled alerts. Network transport falls outside the timer. The full run is in `results/marketflow_balanced.json`.
 
 Developed with AI assistance.
+
+## Reconstructed history
+
+This snapshot uses 2025-06-01 as its author and committer date based on my recollection of the original project. Only the month is remembered; the first day is an approximate placeholder. The original Git history was unavailable. This reconstruction was created on November 14, 2026, and does not recover the original individual commits.
