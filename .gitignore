@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+*.o
+.ember-cache/
+.ember-custom-cache/
+seedos/build/
+seedos/build-bench/
+marketflow/marketflow
+softframe/softframe
+softframe/softframe_embree
+tests/geometry
+functions.wasm
