@@ -1,8 +1,5 @@
 # MarketFlow
 
-**First published on my previous account (from memory):** June 2025  
-**Republished under Djag12:** November 6, 2026
-
 A crossed quote shows up when the best bid meets or exceeds the best ask. MarketFlow follows those prices as updates arrive and flags crossed quotes and stale messages. One writer updates each book. A reader can fetch both quantities at a given price with one atomic load.
 
 ## Try it
